@@ -1,4 +1,4 @@
-##This is an repository with simple exercises to learn python.
+## This is an repository with simple exercises to learn python.
 
 #### Clone this repository
 Open a terminal in an directory of your choice and use the command below to clone this repository to that directory.
